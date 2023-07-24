@@ -1,2 +1,3 @@
 # devops_class
-This is a repo to keeping class notes and code.
+We are developing a project entitled Employee managment system.
+Technology we use python.
